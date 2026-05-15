@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Automation Script | sentiment-analysis + custom-strategies is the best Polymarket automation-script, featuring sentiment-analysis and custom-strategies. Smart,
 
 
 
